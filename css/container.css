@@ -1,0 +1,18 @@
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+    resize: both;
+    overflow: auto;
+    background-image: url(../images/landscape.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-attachment: local;
+  }
+  
+  .container__paragraph {
+    color: white;
+    padding: 10px;
+  }
